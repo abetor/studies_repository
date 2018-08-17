@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func l2() {
 
 	// инициализация значениями по-умолчанию
 	var a1 [3]int // [0,0,0]
